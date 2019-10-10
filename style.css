@@ -1,0 +1,72 @@
+/* .topnav-right {
+    float: right;
+}
+
+.nav-link {
+    float:right;
+}
+
+.collapse {
+    float:right;
+    margin-left: 100px;
+}
+
+.navbar-brand {
+    background: pink;
+    padding: 5px;
+}
+
+.dropdown-menu {
+    float: right;
+} */
+
+/* .col-2 {
+    width: 50%;
+    padding: 5px;
+} */
+
+/* .row {
+    padding: 5px;
+    margin: 5px;
+  }
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+*/
+.card {
+    padding: 10px;
+    margin: auto;
+} 
+
+.col-7 {
+    margin-right:10px;
+    margin-left: -30px;
+    margin-top: 20px;
+}
+
+.float-right {
+    margin-right:-10px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.container {
+    background-color: pink;
+}
+
+.carousel {
+    margin-right: -1000px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
